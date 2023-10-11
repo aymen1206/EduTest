@@ -1,0 +1,13 @@
+/node_modules
+/vendor
+/public/dashboard
+/public/uploads
+10-12-2022.zip
+26-11-backup.zip
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+theeduke_edu.sql

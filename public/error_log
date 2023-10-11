@@ -1,0 +1,224 @@
+[24-Jul-2021 15:25:56 UTC] PHP Fatal error:  Cannot use App\Models\FacilityAd as FacilityAd because the name is already in use in /home/theedukey/public_html/app/Http/Controllers/Api/HomeController.php on line 17
+[26-Jul-2021 11:14:29 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\API\FacilityJWTAuthController::updateProfile() in /home/theedukey/public_html/app/Http/Controllers/Api/FacilityJWTAuthController.php on line 268
+[26-Sep-2021 16:06:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/theedukey/public_html/app/Helpers/helpers.php on line 41
+[26-Sep-2021 16:06:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/theedukey/public_html/app/Helpers/helpers.php on line 41
+[26-Sep-2021 16:06:41 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/theedukey/public_html/app/Helpers/helpers.php on line 43
+[26-Sep-2021 16:06:43 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/theedukey/public_html/app/Helpers/helpers.php on line 43
+[26-Sep-2021 16:06:45 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/theedukey/public_html/app/Helpers/helpers.php on line 43
+[17-Nov-2021 22:41:35 UTC] PHP Warning:  require(/home/theedukey/public_html/vendor/composer/../symfony/polyfill-php80/bootstrap.php): failed to open stream: No such file or directory in /home/theedukey/public_html/vendor/composer/autoload_real.php on line 71
+[17-Nov-2021 22:41:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/theedukey/public_html/vendor/composer/../symfony/polyfill-php80/bootstrap.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/theedukey/public_html/vendor/composer/autoload_real.php on line 71
+[02-Dec-2021 17:09:13 Asia/Riyadh] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/theedukey/public_html/app/Models/Student.php on line 15
+[02-Dec-2021 17:12:38 Asia/Riyadh] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/theedukey/public_html/app/Models/Student.php on line 15
+[02-Dec-2021 17:12:43 Asia/Riyadh] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/theedukey/public_html/app/Models/Student.php on line 15
+[28-Jan-2022 04:35:25 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:35:25 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:35:32 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:35:34 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:35:36 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:35:37 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:35:42 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:35:51 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:35:54 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:35:55 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:35:59 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:36:01 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:36:07 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:36:14 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:36:17 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:36:21 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:36:21 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[28-Jan-2022 04:36:30 Asia/Riyadh] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/theedukey/public_html/app/Http/Middleware/CheckToken.php on line 4
+[13-Sep-2022 12:30:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'snuffleupagus.so' (tried: /opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so (/opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so: cannot open shared object file: No such file or directory), /opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so.so (/opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Sep-2022 12:30:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'snuffleupagus.so' (tried: /opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so (/opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so: cannot open shared object file: No such file or directory), /opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so.so (/opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Sep-2022 15:30:24 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(13): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include('/home/theedukey...')
+#5 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_ca in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[13-Sep-2022 15:30:24 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(13): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include('/home/theedukey...')
+#5 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_ca in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[13-Sep-2022 15:30:25 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(13): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include('/home/theedukey...')
+#5 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_ca in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[13-Sep-2022 15:30:25 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(13): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include('/home/theedukey...')
+#5 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_ca in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[13-Sep-2022 12:30:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'snuffleupagus.so' (tried: /opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so (/opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so: cannot open shared object file: No such file or directory), /opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so.so (/opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Sep-2022 15:30:27 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(13): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include('/home/theedukey...')
+#5 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_ca in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[13-Sep-2022 15:30:27 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(13): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include('/home/theedukey...')
+#5 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_ca in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[13-Sep-2022 12:30:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'snuffleupagus.so' (tried: /opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so (/opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so: cannot open shared object file: No such file or directory), /opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so.so (/opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Sep-2022 15:30:30 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(13): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include('/home/theedukey...')
+#5 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_ca in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[13-Sep-2022 15:30:30 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(13): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include('/home/theedukey...')
+#5 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_ca in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[13-Sep-2022 12:30:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'snuffleupagus.so' (tried: /opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so (/opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so: cannot open shared object file: No such file or directory), /opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so.so (/opt/alt/php74/usr/lib64/php/modules/snuffleupagus.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Sep-2022 15:30:33 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(13): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include('/home/theedukey...')
+#5 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_ca in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[13-Sep-2022 15:30:33 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include()
+#1 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(13): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/theedukey/public_html/vendor/composer/ClassLoader.php(571): include('/home/theedukey...')
+#5 /home/theedukey/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/theedukey...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_ca in /home/theedukey/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[13-Sep-2022 12:30:40 UTC] PHP Warning:  PHP Startup: snuffleupagus: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20170718
+These options need to match
+ in Unknown on line 0
+[13-Sep-2022 15:30:40 Asia/Riyadh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/theedukey/public_html/vendor/composer/platform_check.php on line 24
+[13-Sep-2022 12:30:41 UTC] PHP Warning:  PHP Startup: snuffleupagus: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20170718
+These options need to match
+ in Unknown on line 0
+[13-Sep-2022 15:30:41 Asia/Riyadh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/theedukey/public_html/vendor/composer/platform_check.php on line 24
+[13-Sep-2022 12:30:42 UTC] PHP Warning:  PHP Startup: snuffleupagus: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20170718
+These options need to match
+ in Unknown on line 0
+[13-Sep-2022 15:30:42 Asia/Riyadh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/theedukey/public_html/vendor/composer/platform_check.php on line 24
+[13-Sep-2022 12:30:43 UTC] PHP Warning:  PHP Startup: snuffleupagus: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20170718
+These options need to match
+ in Unknown on line 0
+[13-Sep-2022 15:30:43 Asia/Riyadh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/theedukey/public_html/vendor/composer/platform_check.php on line 24
+[13-Sep-2022 12:30:43 UTC] PHP Warning:  PHP Startup: snuffleupagus: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20170718
+These options need to match
+ in Unknown on line 0
+[13-Sep-2022 15:30:43 Asia/Riyadh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/theedukey/public_html/vendor/composer/platform_check.php on line 24
+[13-Sep-2022 12:30:45 UTC] PHP Warning:  PHP Startup: snuffleupagus: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20170718
+These options need to match
+ in Unknown on line 0
+[13-Sep-2022 15:30:45 Asia/Riyadh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/theedukey/public_html/vendor/composer/platform_check.php on line 24
+[13-Sep-2022 12:30:46 UTC] PHP Warning:  PHP Startup: snuffleupagus: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20170718
+These options need to match
+ in Unknown on line 0
+[13-Sep-2022 15:30:46 Asia/Riyadh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/theedukey/public_html/vendor/composer/platform_check.php on line 24
+[13-Sep-2022 12:30:51 UTC] PHP Warning:  PHP Startup: snuffleupagus: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20170718
+These options need to match
+ in Unknown on line 0
+[13-Sep-2022 15:30:51 Asia/Riyadh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/theedukey/public_html/vendor/composer/platform_check.php on line 24
+[13-Sep-2022 12:31:00 UTC] PHP Warning:  PHP Startup: snuffleupagus: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20170718
+These options need to match
+ in Unknown on line 0
+[13-Sep-2022 15:31:00 Asia/Riyadh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/theedukey/public_html/vendor/composer/platform_check.php on line 24
+[13-Sep-2022 15:31:28 Asia/Riyadh] PHP Warning:  [snuffleupagus][188.53.166.191][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:31:30 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.3][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:31:32 Asia/Riyadh] PHP Warning:  [snuffleupagus][188.53.166.191][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:31:53 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.39][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:32:02 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.12][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:32:04 Asia/Riyadh] PHP Warning:  [snuffleupagus][188.53.166.191][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:32:06 Asia/Riyadh] PHP Warning:  [snuffleupagus][188.53.166.191][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:32:11 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.8][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:32:14 Asia/Riyadh] PHP Warning:  [snuffleupagus][37.224.52.18][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:32:14 Asia/Riyadh] PHP Warning:  [snuffleupagus][37.224.52.18][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:32:23 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.3][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:32:29 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.41][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:32:34 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.11][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:32:37 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.5][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:32:40 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.19][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:32:46 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.2][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:32:55 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.4][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:33:01 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.10][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:33:10 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.33][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:33:22 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.39][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:33:35 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.36][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:33:57 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.10][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:34:19 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.34][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:34:49 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.6][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:35:18 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.10][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:35:55 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.13][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:44:15 Asia/Riyadh] PHP Warning:  [snuffleupagus][188.53.166.191][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:44:16 Asia/Riyadh] PHP Warning:  [snuffleupagus][188.53.166.191][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:44:19 Asia/Riyadh] PHP Warning:  [snuffleupagus][156.197.154.225][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:44:20 Asia/Riyadh] PHP Warning:  [snuffleupagus][156.197.154.225][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[13-Sep-2022 15:44:28 Asia/Riyadh] PHP Warning:  [snuffleupagus][185.191.171.34][config][log] No configuration specificed via sp.configuration_file in Unknown on line 0
+[21-Jan-2023 12:08:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'i360.so' (tried: /opt/cpanel/ea-php74/root/usr/lib64/php/modules/i360.so (libhs_runtime.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php74/root/usr/lib64/php/modules/i360.so.so (/opt/cpanel/ea-php74/root/usr/lib64/php/modules/i360.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2023 12:08:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'i360.so' (tried: /opt/cpanel/ea-php74/root/usr/lib64/php/modules/i360.so (libhs_runtime.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php74/root/usr/lib64/php/modules/i360.so.so (/opt/cpanel/ea-php74/root/usr/lib64/php/modules/i360.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2023 12:08:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'i360.so' (tried: /opt/cpanel/ea-php74/root/usr/lib64/php/modules/i360.so (libhs_runtime.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php74/root/usr/lib64/php/modules/i360.so.so (/opt/cpanel/ea-php74/root/usr/lib64/php/modules/i360.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2023 12:08:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'i360.so' (tried: /opt/cpanel/ea-php74/root/usr/lib64/php/modules/i360.so (libhs_runtime.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php74/root/usr/lib64/php/modules/i360.so.so (/opt/cpanel/ea-php74/root/usr/lib64/php/modules/i360.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0

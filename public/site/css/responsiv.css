@@ -1,0 +1,218 @@
+/* Large devices (desktops, less than 1200px) */
+
+@media (max-width: 1199px) {
+    .mob-logo img {
+        display: inline-block;
+        max-width: 70px;
+        height: auto;
+    }
+}
+
+
+/* Medium devices (tablets, less than 992px) */
+
+@media (max-width: 991px) {
+    #mobile-header {
+        display: block;
+    }
+    #theme-header {
+        display: none;
+    }
+    .view-banner {
+        height: 350px;
+    }
+    #googleMap {
+        height: 250px;
+    }
+}
+
+
+/* Small devices (landscape phones, less than 768px) */
+
+@media (max-width: 767px) {
+    .services-img {
+        height: 150px;
+    }
+    h3.services-title {
+        font-size: 15px;
+    }
+    .map-marker {
+        font-size: 14px;
+    }
+    h2.section-title {
+        font-size: 30px;
+    }
+    .owl-testimonial:before,
+    .owl-testimonial:after {
+        display: none;
+    }
+    .owl-testimonial .owl-item.active.center {
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    .owl-testimonial .owl-item.active.center {
+        padding: 50px;
+    }
+    .contact-us-form .form-control,
+    .search-box .form-control {
+        margin: 5px 0;
+    }
+    .big-title {
+        font-size: 40px;
+        text-align: center;
+    }
+    .about-block p {
+        font-size: 17px;
+        text-align: center;
+    }
+    .align-items-center>div {
+        text-align: center;
+    }
+    .footer-area .row>* {
+        margin-bottom: 20px;
+        border-bottom: 1px solid #535d63;
+        padding-bottom: 20px;
+    }
+    .footer-copyrights {
+        border-top: 0;
+        margin-top: 0;
+    }
+    .view-banner {
+        height: 250px;
+    }
+    .view-rate,
+    .main-title {
+        width: 100%;
+    }
+    .main-title .page-title {
+        font-size: 30px;
+    }
+    .main-title .small-title {
+        font-size: 17px;
+        margin-bottom: 5px;
+    }
+    .page-content {
+        line-height: 30px;
+        font-size: 15px;
+    }
+    .pagination a.numbers.first-number {
+        margin-right: 15px;
+    }
+    .pagination a.numbers.last-number {
+        margin-left: 15px;
+    }
+}
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (max-width: 575px) {
+    .search-block:before,
+    .search-block:after {
+        display: none;
+    }
+    .search-block {
+        background-color: #e8f7f7;
+    }
+    svg {
+        display: none;
+    }
+    .search-box {
+        width: 90%;
+    }
+    .testimonial-block,
+    .about-block {
+        padding-bottom: 55px;
+        margin-bottom: 20px;
+    }
+    #main-footer {
+        padding-top: 55px;
+    }
+    .float-start,
+    .float-end {
+        width: 100%;
+        text-align: center;
+    }
+    .copyrights {
+        padding-top: 0;
+        padding-bottom: 15px;
+    }
+    .footer-copyrights {
+        padding-top: 0;
+    }
+    .search-box {
+        margin: 50px auto 100px auto;
+    }
+    .search-box {
+        padding: 25px;
+    }
+    .search-box .gap-2 {
+        gap: 0;
+    }
+    .small-header {
+        height: 100px;
+        margin-bottom: 100px;
+    }
+    .small-header img {
+        max-width: 120px;
+        top: 30px;
+    }
+    .edit-form {
+        width: 90%;
+        margin: 50px auto;
+    }
+    .action-btns {
+        margin-bottom: 0;
+    }
+    .action-btns a {
+        margin-right: 2%;
+        width: 47%;
+        text-align: center;
+    }
+    .main-title .page-title.more-space {
+        padding: 25px 0 10px 0;
+        font-size: 22px;
+    }
+    .services-img {
+        height: 150px;
+    }
+    .pagination a {
+        padding: 11px 10px 5px 10px;
+        margin: 0 5px;
+    }
+    h2.section-title {
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+}
+
+@media (max-width: 425px) {
+    .customTabs.nav-tabs .nav-item,
+    .customTabs.nav-tabs .nav-link.active,
+    .check-container {
+        width: 100%;
+    }
+    .customTabs.nav-tabs .nav-link {
+        margin-left: 0;
+        margin-bottom: 1px;
+        text-align: center;
+    }
+    .contact-us-form {
+        width: 90%;
+    }
+    .search-box h3 {
+        font-size: 20px;
+        text-align: center;
+    }
+    .action-btns a {
+        margin-right: 0;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .view-banner {
+        height: 150px;
+    }
+    .main-title .page-title {
+        font-size: 20px;
+    }
+}
